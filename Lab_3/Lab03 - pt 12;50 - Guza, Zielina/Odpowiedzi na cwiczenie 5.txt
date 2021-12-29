@@ -1,0 +1,5 @@
+5.1
+
+*W czasie trzymania klawisza S2, dioda nie mruga, gdyż przerwanie działa na zbocze.
+
+*Klawisz z redukcją drgań zestyków, poprawnie zlicza ilość wcisnięć. Dzieje się tak, ponieważ przy wcisnięciu klawisza, drgają zestyki w trakcie przełączania, gdyż są wykonane z metali sprężystych. Każdy producent podaje swoje maksymalne czasy drgania zestyków.
