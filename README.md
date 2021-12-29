@@ -11,4 +11,4 @@ IDE:
 
 projekt:
 
-- odbiornik kodu morse'a
+- odbiornik świetlnego kodu morse'a
