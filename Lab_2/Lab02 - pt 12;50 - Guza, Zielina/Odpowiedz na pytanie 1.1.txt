@@ -1,0 +1,3 @@
+odpowiada za to ta linijka kodu
+
+PTB->PTOR|=LED_R;
