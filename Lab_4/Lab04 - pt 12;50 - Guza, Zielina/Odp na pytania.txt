@@ -1,0 +1,4 @@
+5.1
+*Nie jesteśmy jako ludzie w stanie zobaczyć mrugania
+z częstotliwością 1000Hz.
+
