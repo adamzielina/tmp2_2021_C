@@ -1,0 +1,4 @@
+Dlaczego pomiar „szaleje”, mimo włączonego uśredniania sprzętowego?
+
+-wynika to z zakłóceń sieciowych
+
