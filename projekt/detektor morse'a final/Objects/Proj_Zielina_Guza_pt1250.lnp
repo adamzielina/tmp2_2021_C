@@ -1,0 +1,15 @@
+--cpu Cortex-M0+
+".\objects\adc.o"
+".\objects\i2c.o"
+".\objects\lcd1602.o"
+".\objects\main.o"
+".\objects\pit.o"
+".\objects\klaw.o"
+".\objects\uart0.o"
+".\objects\tpm_pcm.o"
+".\objects\startup_mkl05z4.o"
+".\objects\system_mkl05z4.o"
+--strict --scatter ".\Objects\Proj_Zielina_Guza_pt1250.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Proj_Zielina_Guza_pt1250.map" -o .\Objects\Proj_Zielina_Guza_pt1250.axf
